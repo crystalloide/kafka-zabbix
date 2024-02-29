@@ -32,7 +32,7 @@ This docker-compose contains following containers.
 
 ## Install
 
-`docker-compose up`
+    docker-compose up
 
 ## Access to zabbix and grafana
 
