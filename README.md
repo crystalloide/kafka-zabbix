@@ -66,6 +66,8 @@ Go to `templates`, and add the template.
 
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/2b40fa4e-9d0a-475c-90e0-e6c8ce8efa06)
 
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/b7d4ac3c-4a35-4521-a1a7-1dc99a586737)
+
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/c3ff3513-e52a-4c7f-b449-b69c168562f3)
 
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/de755065-e719-4677-bcc0-a3b85bca660c)
