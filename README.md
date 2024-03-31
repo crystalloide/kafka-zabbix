@@ -52,7 +52,6 @@ Go to `Configuration` > `Templates` > `Import`, and select `kafka_jmx_templates.
 
 Pour nous, le template sera dans : ~/kafka-zabbix/
 
-![add-template](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/zabbix-add-template.png)
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/f2824cf4-2d17-4c95-bf49-7b47408b1d86)
 
 
