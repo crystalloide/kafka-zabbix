@@ -72,6 +72,10 @@ Go to `templates`, and add the template.
 
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/de755065-e719-4677-bcc0-a3b85bca660c)
 
+Exemple des métriques : 
+
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/54035e53-d4d6-4be8-895e-ca7c7cb87629)
+
 
 ## Grafana configuration
 ### enable Zabbix plugin
