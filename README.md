@@ -79,7 +79,8 @@ Exemple des métriques :
 
 ## Grafana configuration
 ### enable Zabbix plugin
-Go to http://localhost:3000/plugins, and select Zabbix plugin.
+Go to http://localhost:3000/plugins, and select Zabbix plugin : > Administration > Plugins and data > Plugins 
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/f36ae7cb-55e7-41c3-a6bc-f9dd14d75d43)
 
 Click `Enable` button. 
 
