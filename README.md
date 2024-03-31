@@ -50,6 +50,8 @@ This docker-compose contains following containers.
 ### Add template for Kafka JMX
 Go to `Configuration` > `Templates` > `Import`, and select `kafka_jmx_templates.xml`.
 
+Pour nous, le template sera dans : ~/kafka-zabbix/
+
 ![add-template](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/zabbix-add-template.png)
 
 ### Add Hosts
