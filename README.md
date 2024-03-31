@@ -83,6 +83,7 @@ Go to http://localhost:3000/plugins, and select Zabbix plugin : > Administration
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/f36ae7cb-55e7-41c3-a6bc-f9dd14d75d43)
 
 Click `Enable` button. 
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/5117a72c-d866-451e-bf68-290dde61b4f2)
 
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/056e10f3-5d5f-4d0c-a604-d2e414511bc4)
 
