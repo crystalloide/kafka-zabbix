@@ -58,7 +58,6 @@ Pour nous, le template sera dans : ~/kafka-zabbix/
 ### Add Hosts
 Go to `Configuration` > `Hosts` > `Create Host`, and add JMX interfaces.
 
-![add-host-jmx](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/zabbix-add-host-jmx.png)
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/e89deacb-e97d-44ee-b4f8-afae837b099f)
 
 
@@ -73,7 +72,8 @@ Go to http://localhost:3000/plugins, and select Zabbix plugin.
 
 Click `Enable` button. 
 
-![add-host-template](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/grafana-enable-plugin.png)
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/056e10f3-5d5f-4d0c-a604-d2e414511bc4)
+
 
 ### Add data source
 #### mySQL (Optional)
@@ -85,7 +85,8 @@ add mySQL as data source
 - DB name: `zabbix`
 - user/pw: `zabbix:zabbix`
 
-![add-mysql](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/grafana-add-mysql.png)
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/8ec3bd88-d2c9-4a27-bbd3-c31b79007cae)
+
 
 #### Zabbix
 
@@ -101,5 +102,6 @@ Add Zabbix for data source.
   - check `Enable` on
   - Data source: select mySQL name
 
-![add-zabbix](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/grafana-add-zabbix.png)
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/7454d950-12bf-4c00-989c-007ce0c9d605)
+
 
