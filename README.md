@@ -64,7 +64,7 @@ Go to `Configuration` > `Hosts` > `Create Host`, and add JMX interfaces.
 Then, Link template to this host.
 Go to `templates`, and add the template.
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/7888ae63-0299-4ace-8fa6-a88241f4f60c)
-
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/2b40fa4e-9d0a-475c-90e0-e6c8ce8efa06)
 ![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/de755065-e719-4677-bcc0-a3b85bca660c)
 
 
