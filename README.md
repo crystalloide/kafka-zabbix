@@ -53,16 +53,20 @@ Go to `Configuration` > `Templates` > `Import`, and select `kafka_jmx_templates.
 Pour nous, le template sera dans : ~/kafka-zabbix/
 
 ![add-template](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/zabbix-add-template.png)
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/f2824cf4-2d17-4c95-bf49-7b47408b1d86)
+
 
 ### Add Hosts
 Go to `Configuration` > `Hosts` > `Create Host`, and add JMX interfaces.
 
 ![add-host-jmx](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/zabbix-add-host-jmx.png)
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/e89deacb-e97d-44ee-b4f8-afae837b099f)
+
 
 Then, Link template to this host.
 Go to `templates`, and add the template.
+![image](https://github.com/crystalloide/kafka-zabbix/assets/48775370/de755065-e719-4677-bcc0-a3b85bca660c)
 
-![add-host-template](https://github.com/takzok/kafka-zabbix/blob/master/doc/images/zabbix-add-host-templates.png)
 
 ## Grafana configuration
 ### enable Zabbix plugin
